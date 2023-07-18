@@ -14,6 +14,7 @@
   - JavaScript
   - CSS
   - Node JS
+  - Express
   - React
   - Redux
   - Nest/js
