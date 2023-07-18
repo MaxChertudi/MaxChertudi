@@ -22,6 +22,6 @@
   - Mongo DB
   - Postgresql
 
-
+📫  Escríbeme y te brindaré toda la información que necesites: maximo.chertudi@gmail.com
 
 
